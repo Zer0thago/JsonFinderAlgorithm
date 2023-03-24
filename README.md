@@ -5,7 +5,7 @@ This C++ program reads an input file, searches for a JSON object
 C++ compiler (e.g., g++, clang)
 ## Compilation
 To compile the program, run the following command in your terminal:
-´´´
+´´´ bash
 g++ -o JsonFinderAlgo main.cpp
 ´´´
 This will generate an executable file named json_extractor.
